@@ -1,0 +1,6 @@
+textfastapi
+uvicorn
+python-dotenv
+pyyaml
+
+All files have been generated according to the directory tree and instructions.
