@@ -1,0 +1,6 @@
+yamlemail:
+ throttle_per_minute: 60
+ enable_tracking: true
+
+sequence:
+ delay_seconds: 30
